@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm susmita</h1>
+<h1 align="center">Hi 👋, I'm vaibhav</h1>
 <h3 align="center">Passionate about decoding signals and designing intelligent solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita205&label=Profile%20views&color=0e75b6&style=flat" alt="susmita205" /> </p>
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **localization and sensing using Reconfigurable Intelligent Surfaces (RIS)**
 
-- 🌱 I’m currently learning **backend development and Verilog**
+- 🌱 I’m currently learning **Verilog**
 
-- 📫 How to reach me **susmita.sain205@gamil.com**
+- 📫 How to reach me **vaibhav.vii912271@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/susmita sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmita sain" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vaibhav912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
