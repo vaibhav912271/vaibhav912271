@@ -33,10 +33,17 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
+  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Simulink_logo.png" alt="simulink" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Generic_Logic_Icon.svg" alt="verilog" width="40" height="40"/>
+  </a>
   <a href="https://www.raspberrypi.com/products/raspberry-pi-5/" target="_blank" rel="noreferrer">
-    <img src="https://www.raspberrypi.com/favicon.ico" alt="raspberrypi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/iot/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="40" height="40"/>
   </a>
 </p>
+
