@@ -34,14 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
    <!-- Simulink -->
-  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Simulink_logo.png" alt="simulink" width="40" height="40"/>
-  </a>
-
-  <!-- Verilog (using logic gate icon) -->
-  <a href="https://www.chipverify.com/verilog/verilog-tutorial" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logic-gate.svg/768px-Logic-gate.svg.png" alt="verilog" width="40" height="40"/>
-  </a>
+  <
 
   <!-- AWS -->
   <a href="https://aws.amazon.com/iot/" target="_blank" rel="noreferrer">
